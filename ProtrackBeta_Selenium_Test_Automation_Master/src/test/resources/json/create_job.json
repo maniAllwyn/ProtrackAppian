@@ -1,0 +1,33 @@
+{
+	"Scenario":"Create New Job",
+	"Priority": "High",
+	"Target Rate":"50",
+	"Due Date":"01/25/2022",
+	"Location":"Client Site",
+	"Status":"Open",
+	"Account Manager":"Account Manager Protract Beta",
+	"Recruiter":"Recruiter Protrack",
+	"Client":"NOAB",
+	"Client Manager":"client@mailinator.com",
+	"Contract":"",
+	"Job Title":"API Tester",
+	"Job Type":"Contract to Hire",
+	"Number of Openings":"1",
+	"Experience":"6",
+	"Certifications":"ISTQB",
+	"Additional Comments":"Test comments",
+	"Internal Comments":"Test internal comments",
+	"Skills":"Java",
+	"Job Overview":"Test job Overview",
+	"Required Qualifications":"Test Required Qualifications",
+	"Country":"United States of America",
+	"State":"Florida",
+	"City":"Florida city",
+	
+	##update Job
+	"Scenario1": "Update Job",
+	"Search Job" : "NOAB-12",
+
+	# link candidate
+	"link candidate": "Dhanaraj Javvadi"
+}

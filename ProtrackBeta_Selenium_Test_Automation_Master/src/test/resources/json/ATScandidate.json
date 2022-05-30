@@ -1,0 +1,28 @@
+{	"Scenario": "Create Candidate",
+	
+	"First Name": "Ram",
+	"Last Name": "Charan",
+	"Email": "ram",
+	"Phone": "9177140436",
+	"Country": "United States of America",
+	"State":"Virginia",
+	"City":"Virgina, VA",
+	"Work Authorization": "L1",
+	"Employment Type": "1099",
+	"Hourly Rate": "80",
+	"Submission Rate": "95",
+	"Referral Source": "Other",
+	"Experience (in years)": "5",
+	"Skills": "Java",
+	
+	
+
+	"Search Candidate" : "Suman K",
+	"LinkedIn Link" : "https://Suman.in",
+	
+	
+	"LinkCandidate": "Suman K",
+	"LinkJob":"NOAB-12"
+	
+	}
+	
